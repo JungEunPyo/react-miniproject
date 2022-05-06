@@ -1,0 +1,45 @@
+{
+  "playlists": [
+    {
+      "id": 1,
+      "name": "첫번째 플레이리스트45",
+      "songs": [
+        {
+          "id": 1,
+          "links": "www.naver2.com",
+          "artist": "썸딩",
+          "title": "노래2"
+        },
+        {
+          "id": 2,
+          "links": "www.naver22.com",
+          "artist": "썸딩222",
+          "title": "노래3333"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "두번째 플레이리스트",
+      "songs": [
+        {
+          "id": 1,
+          "links": "www.naver2.com",
+          "artist": "썸딩",
+          "title": "노래2"
+        },
+        {
+          "id": 2,
+          "links": "www.naver22.com",
+          "artist": "썸딩222",
+          "title": "노래3333"
+        }
+      ]
+    },
+    {
+      "name": "5555555555",
+      "songs": [],
+      "id": 3
+    }
+  ]
+}
